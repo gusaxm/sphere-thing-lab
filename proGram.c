@@ -1,3 +1,4 @@
+//this was made for a programming course
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
